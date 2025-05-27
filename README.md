@@ -1,1 +1,3 @@
 # JavaScript
+
+For study basis
