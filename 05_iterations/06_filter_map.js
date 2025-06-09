@@ -46,6 +46,6 @@ const books = [
 // const noteBooks= books.filter( (bk) => { return bk.publish >=1999} )
 
 const noteBooks = books.filter( (bk) => { 
-    return bk.publish >= 1999 && bk.genre === "Science"  } )
+    return bk.publish >= 1999 && bk.genre === "Science"} )
 
 console.log(noteBooks)
